@@ -1,0 +1,2 @@
+# assets-yiyark
+static assets
